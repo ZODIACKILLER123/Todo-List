@@ -206,34 +206,6 @@ Los estilos están implementados con TailwindCSS. Para personalizar:
 
 ---
 
-## 🚀 Próximas Características
-
-- [ ] 🔍 Búsqueda y filtrado de tareas
-- [ ] 📅 Vista de calendario
-- [ ] 🏷️ Etiquetas y categorías
-- [ ] 📊 Estadísticas y reportes
-- [ ] 🔔 Notificaciones
-- [ ] 👥 Compartir tareas
-- [ ] 🌙 Modo oscuro
-
----
-
-## 🤝 Contribuir
-
-1. Fork el proyecto
-2. Crea una rama para tu característica (`git checkout -b feature/nueva-caracteristica`)
-3. Commit tus cambios (`git commit -m 'Agregar nueva característica'`)
-4. Push a la rama (`git push origin feature/nueva-caracteristica`)
-5. Abre un Pull Request
-
----
-
-## 📝 Licencia
-
-Este proyecto está bajo la Licencia ISC. Ver el archivo `package.json` para más detalles.
-
----
-
 ## 👨‍💻 Autor
 
 **ZODIACKILLER123**
